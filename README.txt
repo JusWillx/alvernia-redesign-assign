@@ -1,4 +1,4 @@
-ALVERNIA TRACK & FIELD — WORKING REDESIGN (rubric edition)
+ALVERNIA TRACK & FIELD — WORKING REDESIGN
 
 START: Open index.html in a modern browser (Chrome, Edge, Firefox, Safari).
 This is an independent student prototype, not an official Alvernia website.
@@ -20,4 +20,3 @@ ASSIGNMENT FILES:
 
 PUBLISHING: Upload this folder to GitHub Pages or another static web host to get a live URL. The ZIP is only a Canvas submission substitute with instructor approval. No live site or repo was created in this workspace.
 
-PEER TEST: still not done; ask a peer to find a record on a phone, observe any difficulties, revise and retest. Enter their actual results into TEST_LOG.md.
