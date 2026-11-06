@@ -1,25 +1,23 @@
-ALVERNIA TRACK & FIELD — WORKING WEBSITE PROTOTYPE
+ALVERNIA TRACK & FIELD — WORKING REDESIGN (rubric edition)
 
-Open index.html in any modern web browser. No installation or internet connection is required for the layout, filters, or local data management. Official reference links require internet.
+START: Open index.html in a modern browser (Chrome, Edge, Firefox, Safari).
+This is an independent student prototype, not an official Alvernia website.
 
-FEATURES
-- Responsive homepage and dedicated records, performances, links, management screens
-- Men's/women's + indoor/outdoor + event type + verification + text search
-- Eight seeded record entries explicitly supported by linked Alvernia Athletics reports
-- Women's 2026 sourced performances separate from certified school records
-- Add records, import/export CSV, delete locally added entries
-- Local browser storage maintains edits on the same browser/device
+DESIGN: First maroon-and-gold design retained; quick access tiles added for men's records, women's records, season highlights, and official schedules / rosters. Search by athlete or event, filter season/type/verification, and click linked official evidence. The empty state offers Clear filters and the records page has Reset all filters.
 
-IMPORTANT LIMITATIONS
-- Independent prototype; not affiliated with or deployed by Alvernia University
-- Not a complete, continuously synced record database. The starter entries were checked against athletics reporting available on Nov 6, 2026.
-- Records and performance labels should be reviewed by athletics staff before real-world publication.
-- Browser localStorage is NOT multi-user persistence. Updates do not sync to any website.
-- This demo admin panel is NOT secure and must be replaced with authenticated editorial workflow, role-based approval, audit logs, and a real shared database before public deployment.
+DATA: Selected explicitly sourced school records only. This is NOT a complete record book. Other athletics reports are separately labeled notable performances. Check sources when citing these examples. User-added and imported records remain Pending review and live only in this browser's localStorage. CSV export works; updates do NOT publish to a shared database or university website.
 
-TO PUBLISH A STATIC PREVIEW
-Upload the index.html file to a static website host such as Netlify, GitHub Pages, or an institution-approved server. The resulting public site is a preview only: its editing UI works per visitor's browser and does not publish shared changes.
+ASSIGNMENT FILES:
+  TASK.md — project task and three acceptance criteria
+  AI_USE.md — AI contribution and human decision prompts
+  TEST_LOG.md — checks, outcomes and pending peer test
+  TEST_RESULTS.txt — machine-readable record of 14 regression checks
+  REFLECTION_DRAFT.md — personalize after peer test
+  DEMO_SCRIPT.md — suggested 60–90s walkthrough (record yourself)
+  screenshots/ — BEFORE = first prototype; AFTER = updated prototype
+  before-prototype.html — earlier site for comparative screenshots
+  test_site.py — automated browser regression checks (requires Playwright and Chromium)
 
-CSV FORMAT
-gender,season,type,event,athlete,mark,year,meet,source,status
-Imported records always revert to Pending review for safety.
+PUBLISHING: Upload this folder to GitHub Pages or another static web host to get a live URL. The ZIP is only a Canvas submission substitute with instructor approval. No live site or repo was created in this workspace.
+
+PEER TEST: still not done; ask a peer to find a record on a phone, observe any difficulties, revise and retest. Enter their actual results into TEST_LOG.md.

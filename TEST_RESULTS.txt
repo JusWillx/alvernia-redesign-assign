@@ -1,0 +1,14 @@
+Homepage loads: PASS 
+Records screen opens: PASS 
+Search finds sourced record: PASS 
+Empty state visible: PASS 
+Empty state recovery: PASS 
+Women switch accessible: PASS 
+Women no verified records clearly empty: PASS 
+Women performances shown without record claim: PASS 
+No browser errors: PASS []
+Phone has no page-level horizontal overflow: PASS 375
+Phone find record: PASS 
+Keyboard Enter activates navigation: PASS 
+Keyboard typing finds record: PASS 
+Keyboard select operable: PASS 
