@@ -1,32 +1,31 @@
-# TASK — Alvernia Track & Field Records Finder
+# TASK — Alvernia Track & Field Records and Performances Hub
 
-## Audience and single important task
-**Primary audience:** a prospective Alvernia track and field student-athlete using a phone to check an existing program record and see its original source.
+**Project type:** Independent student redesign; not an official Alvernia website.  
+**Primary audience:** Prospective Alvernia track-and-field student-athletes, especially visitors using a phone.  
+**Primary visitor task:** Find a men's or women's indoor/outdoor event; compare a documented school-record milestone and historical Top 10 research performances; follow a link to the source result.
 
-**Visitor task:** Starting from the home page, open School Records, choose men's or women's team, optionally filter indoor/outdoor and event, find an athlete or event, and open the Alvernia Athletics source. A clear no-match result must appear when no entry fits.
+## Observed problem
+Alvernia performance history is scattered across athletics articles, individual athlete profiles, archived lists, and TFRRS results. A visitor looking for a previous record holder or a strong non-record performance has to navigate separate sites and search by event. The redesign makes these performances findable from one interface without claiming that the collected research is a complete, official record book.
 
-## Observed problem / evidence
-The official Alvernia men's track records page (https://auwolves.com/sports/2024/6/19/mens-track-and-field-records.aspx) uses separate archive resources and lists men's outdoor records as “COMING SOON” (checked Nov. 6, 2026). News posts announce individual records, but a visitor has to search across several pages. Example source: https://auwolves.com/news/2026/5/20/mens-track-and-field-four-golden-wolves-earn-ustfcca-all-region-honors.aspx.
+## Scope and student design choices
+- Retain accessible links to the official men's/women's rosters and schedules.
+- Present **School Records** (documented milestones and best collected event marks) separately from the **All-Time Top 10 research** view.
+- Provide men/women, indoor/outdoor, event, year-range, and individual-vs-unique-athlete filters; include source links and understandable missing-result states.
+- Use a black, maroon, and gold athletic identity with readable dark panels, phone-friendly navigation, visible focus states, and a horizontally scrollable data table where necessary.
+- Keep locally added records and CSV import/export clearly labeled as browser-local, not a shared institutional system.
+- Do **not** present provisional collected rankings as certified historical school records. TFRRS is an acceptable class-project source; full 2009–2026 extraction remains incomplete.
 
-## Scope
-Build a small responsive **independent prototype** for navigating a curated list of sourced men's and women's track information. Preserve links to official team rosters, schedules, and original record archive. Search and team/season/event filters should work with keyboard and touch. Distinguish school records backed by explicit official claims from merely reported performances; never invent women's records to fill gaps.
+## Three acceptance criteria
+1. **Find and compare:** From Home, a visitor can open School Records or All-Time Top 10, choose a team and season, filter an event/search by athlete, and view sourced results. No unsupported ranking is labeled official.
+2. **Phone layout:** At 375px wide, navigation, controls, and featured records are readable and usable without horizontal page overflow; wide tables scroll within their containers.
+3. **Keyboard + failure state:** Navigation, toggles, filters and reset can be operated by keyboard. A search with no matches displays a helpful message with a working Clear filters button.
 
-## Acceptance criteria (testable)
-1. A visitor can reach School Records from the homepage, switch between teams, filter by season, and search for a known athlete; matching records are displayed with a functioning official source link.
-2. At a 375px-wide phone viewport, the key navigation and record filters remain readable, operable, and do not require horizontal page scrolling (the record table may scroll within its own container).
-3. Using only keyboard Tab, Enter, Space, and standard select/input controls, a visitor can reach records and operate the search; a no-match query shows an understandable empty state and a way to reset filters.
+## Required evidence
+- This completed TASK.md, AI_USE.md, TEST_LOG.md and source code.
+- Before/after desktop and 375px-phone screenshots. The before screenshots are **earlier student prototypes**, not a capture of the official Alvernia website.
+- A 60–90 second demonstration recording or approved in-class alternative.
+- A student-written reflection that identifies audience benefit, one AI decision accepted/rejected, observed peer-test result (if performed), and remaining limitations.
+- Public URL + repository URL, or **instructor-approved** ZIP fallback.
 
-## Explicit exclusions
-Not a university-authorized replacement website, no real-time synchronization or shared database, no guaranteed complete record book, no password-protected editorial workflow, no chatbot/map/3D functionality. Local browser record editing is only a demonstration and does not update the public page for others.
-
-## Student decisions to confirm or adapt
-- Prioritize the record-finding task instead of optional advanced features.
-- Keep women's performances in a separate category until an official source identifies a school record.
-- Keep the official team URLs for additional context and history.
-- Ask a peer to run the visitor task, record observations, make a specific change, then retest.
-
-## Definition of done
-Working site and code are shareable; TASK.md, AI_USE.md and TEST_LOG.md exist; before/after desktop and phone screenshots are included; browser testing is documented honestly; peer test, revision/retest, demo recording, student reflection, and public URL/repo or approved ZIP fallback are submitted.
-
-## Iteration 2 design constraint (added Nov. 6, 2026)
-Maintain the first prototype's maroon/gold hero, prominently styled featured records, and easy access to supporting team links. Make the primary task more obvious with separate men's and women's record shortcuts, accessible focus indication, mobile-usable navigation, and a reset button. Do not remove local CSV functionality or mislabel pending records as verified. Record further peer-driven changes in TEST_LOG.md.
+## Outside the scope of the current package
+Full independent verification of every 2009–2026 TFRRS result, authenticated shared editing, live results integration, an official Alvernia deployment, chatbot, 3D map and paid services. Peer usability testing is a rubric requirement but **has not been performed and is not claimed** in this package.

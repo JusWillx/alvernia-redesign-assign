@@ -1,10 +1,15 @@
-# 60–90 second demonstration outline (record yourself)
+# 60–90 second demonstration — recording guide
 
-0–10 sec: Introduce the intended visitor: a prospective track athlete looking for records.
-10–25 sec: Show the home page, then open School Records.
-25–45 sec: Pick men's outdoor, search "Hahn" and point out the source link and record evidence.
-45–60 sec: Switch to women, explain the honest no-verified-records empty state; show the separate Performances page.
-60–75 sec: Type a nonsense search, show the empty state and Clear filters action; demonstrate the phone view and keyboard focus.
-75–90 sec: Briefly mention your own design decision, peer-driven change (once completed), and limitation: no shared live database.
+This is a guide, not a recording.
 
-This is a script, not an actual recording. Record the browser and your voice or use an instructor-approved in-class equivalent.
+**0–12 seconds:** Show the black/maroon/gold home page. Explain that prospective student-athletes need one place to find past Alvernia performances.
+
+**12–30 seconds:** Open School Records, switch from men's to women's, filter indoor/outdoor, and open one evidence source.
+
+**30–55 seconds:** Open All-Time Top 10, switch teams and season, choose an event, and explain the difference between a school-record milestone and a rank among currently collected performances.
+
+**55–70 seconds:** Search for a nonexistent athlete, show the no-match message and Clear filters. Resize to phone width or show the supplied phone screenshot.
+
+**70–90 seconds:** Mention that the user specifically chose black/maroon/gold and corrected AI-generated missing historical leaders. State that full 2009–2026 coverage and shared editing remain limitations.
+
+Record your screen and voice, or use the approved in-class alternative. Do not claim a peer test occurred if it has not.

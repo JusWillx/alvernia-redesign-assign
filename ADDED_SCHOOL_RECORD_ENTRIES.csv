@@ -1,0 +1,24 @@
+id,gender,season,type,event,athlete,mark,year,meet,source,status
+hist-1,Women,Indoor,Sprints,400m,Stephanie Coleman,1:08.12,2011,Collegeville Indoor Classic,https://auwolves.com/news/2011/1/24/mtrack_0124111710.aspx,Verified
+hist-2,Women,Indoor,Jumps,Pole vault,Melissa Fellenbaum,3.70m,2012,Kutztown Invitational,https://auwolves.com/news/2012/1/17/wtrack_0117125604.aspx,Verified
+hist-3,Men,Indoor,Sprints,60m hurdles,Rondel Parker,8.73,2013,MAC Indoor Championships,https://auwolves.com/news/2013/2/23/mtrack_0223135248.aspx,Verified
+hist-4,Men,Indoor,Relays,4x200m,Ricky Bruno · Brandon Young · Rondel Parker · Zach Wilson,1:32.78,2013,Ursinus Indoor Invitational,https://auwolves.com/story.aspx?file_date=2%2F8%2F2013&filename=mtrack_0208134139,Verified
+hist-5,Women,Indoor,Throws,Shot put,Tia Thomas,11.71m,2014,MAC Indoor Championships,https://auwolves.com/news/2014/3/3/wtrack_0303145219.aspx,Verified
+hist-6,Men,Indoor,Throws,Shot put,Jeriko Reyes,13.57m,2014,MAC Indoor Championships,https://auwolves.com/news/2014/3/3/wtrack_0303145219.aspx,Verified
+hist-7,Women,Indoor,Sprints,60m,Heather Wanner,8.02,2014,Susquehanna Invitational,https://auwolves.com/sports/womens-track-and-field/roster/heather-wanner/7212,Verified
+hist-8,Women,Indoor,Sprints,200m,Heather Wanner,26.61,2014,Susquehanna Invitational,https://auwolves.com/sports/womens-track-and-field/roster/heather-wanner/7212,Verified
+hist-9,Women,Indoor,Sprints,55m,Heather Wanner,7.41,2015,Kutztown Invitational,https://auwolves.com/news/2015/1/18/wtrack_0118150301.aspx,Verified
+hist-10,Women,Indoor,Sprints,500m,Alanna Blessington,1:35.97,2015,Kutztown Invitational,https://auwolves.com/news/2015/1/18/wtrack_0118150301.aspx,Verified
+hist-11,Women,Indoor,Sprints,60m,Heather Wanner,7.73,2015,NCAA Indoor Championships,https://auwolves.com/awards.aspx?aow=407,Verified
+hist-12,Men,Indoor,Relays,DMR,Nick Sturm · Chris Lockhart · Justin O’Brien · Christian Mele,10:56.26,2016,Susquehanna Open,https://auwolves.com/news/2016/2/24/mtrack_0224163736.aspx,Verified
+hist-13,Women,Indoor,Middle distance,Mile,Katelyn Schoener,5:32.99,2020,2020 indoor season,https://auwolves.com/sports/womens-track-and-field/roster/katelyn-schoener/11294,Verified
+hist-14,Women,Indoor,Middle distance,3000m,Katelyn Schoener,10:58.20,2020,2020 indoor season,https://auwolves.com/sports/womens-track-and-field/roster/katelyn-schoener/11294,Verified
+hist-15,Men,Outdoor,Sprints,400m,Luke St. Pierre,49.28s,2024,MAC Outdoor Championships,https://auwolves.com/news/2024/5/3/mens-track-and-field-st-pierre-breaks-record-leads-golden-wolves-at-mac-championships.aspx,Verified
+hist-16,Men,Outdoor,Relays,4x100m,Jack Short · Elisah Jerome · Anthony Downs · Luke St. Pierre,42.52,2024,MAC Outdoor Championships,https://auwolves.com/news/2024/5/3/mens-track-and-field-st-pierre-breaks-record-leads-golden-wolves-at-mac-championships.aspx,Verified
+hist-17,Men,Outdoor,Middle distance,3000m steeplechase,Anthony Roselli,9:39.90,2023,MAC Outdoor Championships,https://auwolves.com/sports/mens-track-and-field/roster/anthony-roselli/11263,Verified
+hist-18,Men,Indoor,Relays,DMR,Anthony Roselli · relay squad,10:46.44,2023,MAC Indoor Championships,https://auwolves.com/sports/mens-track-and-field/roster/anthony-roselli/11263,Verified
+archive-19,Men,Indoor,Sprints,55m,Tyrone McCloud,6.62s,2012,Kutztown,https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/athletics.alvernia.edu/documents/2024/6/19/Men_s_Indoor_Top-Ten_PRs_June2024.pdf,Pending review
+archive-20,Men,Indoor,Sprints,55m hurdles,Rondel Parker,8.10s,2013,Kutztown,https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/athletics.alvernia.edu/documents/2024/6/19/Men_s_Indoor_Top-Ten_PRs_June2024.pdf,Pending review
+archive-21,Men,Indoor,Middle distance,500m,Jeremiah Clinchoc,1:09.73,2012,Lehigh,https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/athletics.alvernia.edu/documents/2024/6/19/Men_s_Indoor_Top-Ten_PRs_June2024.pdf,Pending review
+archive-22,Men,Indoor,Middle distance,1000m,Christian Mele,2:34.36,2017,Dickinson,https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/athletics.alvernia.edu/documents/2024/6/19/Men_s_Indoor_Top-Ten_PRs_June2024.pdf,Pending review
+archive-23,Men,Indoor,Middle distance,Mile,Christian Mele,4:24.20,2017,MAC Championships,https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/athletics.alvernia.edu/documents/2024/6/19/Men_s_Indoor_Top-Ten_PRs_June2024.pdf,Pending review

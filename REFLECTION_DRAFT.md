@@ -1,9 +1,9 @@
-# Short reflection — STUDENT DRAFT TO COMPLETE
+# Reflection draft — personalize before Canvas submission
 
-**Who benefits:** Prospective Alvernia men's and women's track athletes trying to compare performances, find official school records, and reach team resources from a phone. A searchable record finder reduces the need to jump between different articles and archived lists.
+**Who benefits:** Prospective and current Alvernia track-and-field athletes, alumni, and fans can compare sourced men's and women's indoor/outdoor performances without searching through separate articles and athlete pages.
 
-**One AI suggestion I changed or rejected:** AI initially proposed a complete automatically updated database. I narrowed the project to a small, clearly sourced record finder so I could test its usefulness and avoid claiming incomplete records are definitive. *(Edit this to reflect your actual decision.)*
+**One AI suggestion I changed or rejected:** I wanted historical performances included, not just recent records. I pushed back when the AI treated 2026 results as all-time rankings and missed past athletes. I also chose black, maroon, and gold for a clearer athletic design. [Edit this in your own words.]
 
-**What my peer test revealed:** [After an actual peer session, describe exactly what confused the peer, the change you made, and whether the retest worked. Do not invent a result.]
+**What a peer test revealed:** NOT COMPLETED. [Only fill in if you actually have someone test it. Do not invent observations.]
 
-**One remaining limitation:** New entries are only stored in each visitor's browser; there is no authenticated, shared publishing database. Some program records, especially in women's events, still need official source verification and inclusion.
+**One remaining limitation:** The archive is research-based, not an exhaustive comparison of every TFRRS result from 2009–2026. Data added through the demo editor stays in the visitor's browser and is not publicly synced.
